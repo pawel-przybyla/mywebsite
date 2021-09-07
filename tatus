@@ -1,0 +1,65 @@
+[33mcommit 1020767ce45a2539188b511c17147b8c4f3cb4a3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 26 15:01:20 2021 +0200
+
+    wrong css class
+
+[33mcommit 065f5c87be7eccad5d9278fe61f1a1993ad6e6a6[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Wed Aug 25 08:11:12 2021 +0200
+
+    changed signing color to yellow
+
+[33mcommit 2b7acb590d9508bd6d1399dce11dc790f9389792[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Tue Aug 24 16:24:13 2021 +0200
+
+    added login box again
+
+[33mcommit 4b3cdf0da30b11d5c9a4fe4b5d27278d6ef636e6[m[33m ([m[1;33mtag: my_new_branch[m[33m, [m[1;33mtag: h[m[33m, [m[1;33mtag: finish_init[m[33m, [m[1;32mmy_new_branch[m[33m)[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 15:14:08 2021 +0200
+
+    Removed copyrigth info
+
+[33mcommit f0cd2a115163bbae3715ef11955692087ceb0c97[m[33m ([m[1;33mtag: e[m[33m)[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 15:12:22 2021 +0200
+
+    Log In removed
+
+[33mcommit eba3e264c922167302135fbd361e9fc858919ccc[m[33m ([m[1;33mtag: ll[m[33m)[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 15:09:34 2021 +0200
+
+    Changed welcome message
+
+[33mcommit aa9ba39dbd055ce5554a699b9c7085ef2018bd38[m[33m ([m[1;33mtag: o[m[33m)[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 15:07:00 2021 +0200
+
+    Title changed
+
+[33mcommit 51c85636d1d89f013c9711a5148ba0f0f891c498[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 15:03:16 2021 +0200
+
+    Initial Jumbotron message
+
+[33mcommit fba060509179c7d68506e56b0f5171d9b9b90e65[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 14:47:33 2021 +0200
+
+    Third commit. Readme modified
+
+[33mcommit 2cbff2bd010805b9f9b48e25e78415a00a300971[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 14:45:31 2021 +0200
+
+    second commit
+
+[33mcommit b6c052ac3c61bec41964a72564571ecebc6c78dc[m[33m ([m[1;33mtag: first_commit[m[33m)[m
+Author: Paweł Przybyła <pawel.przybyla@metapack.com>
+Date:   Thu Aug 19 14:35:24 2021 +0200
+
+    this is first commit of Paweł
